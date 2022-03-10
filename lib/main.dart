@@ -45,6 +45,6 @@ class MyApp extends StatelessWidget {
  * https://github.com/flutter/flutter/issues/58247#issuecomment-636500680
  * https://github.com/flutter/flutter/issues/65334#issuecomment-783923349
  * 
- * PARA OBTENER EL FICHERO SHARED_PREFENCES.XML:
+ * PARA OBTENER EL FICHERO SHARED_PREFENCES.XML (HAY QUE HACERLO EN MODO ROOT -adb root-):
  * /home/enrique/Android/Sdk/platform-tools/adb pull /data/user/0/com.example.preferences_app/shared_prefs/FlutterSharedPreferences.xml /home/enrique/
  */
