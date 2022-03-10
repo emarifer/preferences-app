@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="flutter.name">Enrique Marin</string>
+    <boolean name="flutter.isDarkmode" value="false" />
+    <long name="flutter.gender" value="1" />
+</map>
